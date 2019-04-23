@@ -1,0 +1,30 @@
+body{
+
+   font:  Lucida sans, Arial, Helvetica, sans-serif;
+   background-color:#eee;
+}
+.navbar-dark{
+	height:40px;
+}
+.navbar-dark .navbar-nav .nav-link{
+	width:100px;
+
+}
+img{
+	max-width:100%;
+}
+.checked {
+    color: darkgreen;
+}
+#checked {
+    color: darkgreen;
+}
+hr.new{
+	border-top:1.3px solid #D0D2D2;
+}
+.img-thumbnail{
+	height:10px;
+}
+hr.fade{
+	border-top:1.3px solid #E5EEEE;
+}
